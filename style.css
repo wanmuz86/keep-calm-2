@@ -1,0 +1,22 @@
+body {
+	background-color: rgb(128,23,14);
+	color: white;
+	font-size: 72px;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+}
+
+img {
+	width: 200px;
+}
+
+#box {
+	border: 5px double white;
+	width: 500px;
+	margin: 10px auto;
+}
+
+#smaller {
+	font-size: 32px;
+}
